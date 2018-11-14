@@ -98,6 +98,6 @@ class TimeGroup {
 
     public TimeGroup(int start, int end) {
         this.start = start;
-        this.end = end;
+        this.end = end;   
     }
 }
